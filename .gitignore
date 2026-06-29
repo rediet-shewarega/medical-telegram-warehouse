@@ -1,0 +1,11 @@
+.env
+venv/
+__pycache__/
+*.pyc
+logs/
+data/raw/
+target/
+dbt_packages/
+.DS_Store
+telegram_session.session
+telegram_session.session-journal
