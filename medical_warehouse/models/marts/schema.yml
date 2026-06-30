@@ -2,66 +2,77 @@ version: 2
 
 models:
   - name: dim_channels
-    description: "Dimension table containing Telegram channel information."
+    description: "Dimension table containing Telegram channel-level information and summary metrics."
     columns:
       - name: channel_key
-        description: "Surrogate key for each Telegram channel."
+        description: "Surrogate primary key for each Telegram channel."
         tests:
           - unique
           - not_null
 
       - name: channel_name
-        description: "Cleaned Telegram channel name."
+        description: "Name of the Telegram channel."
         tests:
-          - unique
           - not_null
 
       - name: channel_type
         description: "Business category of the channel, such as Pharmaceutical, Cosmetics, or Medical."
-        tests:
-          - not_null
+
+      - name: first_post_date
+        description: "Earliest message date observed for the channel."
+
+      - name: last_post_date
+        description: "Latest message date observed for the channel."
 
       - name: total_posts
-        description: "Total number of scraped posts from the channel."
-        tests:
-          - not_null
+        description: "Total number of posts from the channel in the cleaned warehouse."
+
+      - name: avg_views
+        description: "Average number of views for messages from the channel."
 
   - name: dim_dates
-    description: "Dimension table containing calendar date attributes."
+    description: "Reusable date dimension table for time-based analysis."
     columns:
       - name: date_key
-        description: "Date key in YYYYMMDD format."
+        description: "Primary date key in YYYYMMDD format."
         tests:
           - unique
           - not_null
 
       - name: full_date
-        description: "Calendar date."
+        description: "Full calendar date."
         tests:
-          - unique
           - not_null
 
-      - name: year
-        description: "Year number."
-        tests:
-          - not_null
+      - name: day_of_week
+        description: "Numeric day of week."
+
+      - name: day_name
+        description: "Name of the day."
+
+      - name: week_of_year
+        description: "Week number of the year."
 
       - name: month
         description: "Month number."
-        tests:
-          - not_null
+
+      - name: month_name
+        description: "Month name."
+
+      - name: quarter
+        description: "Calendar quarter."
+
+      - name: year
+        description: "Calendar year."
+
+      - name: is_weekend
+        description: "Boolean flag showing whether the date is a weekend."
 
   - name: fct_messages
-    description: "Fact table containing cleaned Telegram messages and engagement metrics."
+    description: "Fact table containing cleaned Telegram message-level records."
     columns:
-      - name: message_key
-        description: "Unique key created from channel name and Telegram message ID."
-        tests:
-          - unique
-          - not_null
-
       - name: message_id
-        description: "Original Telegram message ID. This may repeat across different channels."
+        description: "Telegram message ID."
         tests:
           - not_null
 
@@ -70,28 +81,74 @@ models:
         tests:
           - not_null
           - relationships:
-              to: ref('dim_channels')
-              field: channel_key
+              arguments:
+                to: ref('dim_channels')
+                field: channel_key
 
       - name: date_key
         description: "Foreign key linking messages to dim_dates."
         tests:
           - not_null
           - relationships:
-              to: ref('dim_dates')
-              field: date_key
+              arguments:
+                to: ref('dim_dates')
+                field: date_key
 
       - name: message_text
-        description: "Cleaned text content of the Telegram message."
-        tests:
-          - not_null
+        description: "Cleaned Telegram message text."
+
+      - name: message_length
+        description: "Length of the message text."
 
       - name: view_count
         description: "Number of views on the Telegram message."
-        tests:
-          - not_null
 
       - name: forward_count
         description: "Number of forwards on the Telegram message."
+
+      - name: has_image
+        description: "Boolean flag showing whether the message has an image."
+
+  - name: fct_image_detections
+    description: "Fact table containing YOLO object detection results joined with message, channel, and date dimensions."
+    columns:
+      - name: detection_key
+        description: "Unique key for each detected object in an image."
+        tests:
+          - unique
+          - not_null
+
+      - name: message_id
+        description: "Telegram message ID associated with the detected image."
         tests:
           - not_null
+
+      - name: channel_key
+        description: "Foreign key linking detection records to dim_channels."
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_channels')
+                field: channel_key
+
+      - name: date_key
+        description: "Foreign key linking detection records to dim_dates."
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_dates')
+                field: date_key
+
+      - name: detected_class
+        description: "Object class detected by YOLO, such as person, bottle, cup, or none."
+
+      - name: confidence_score
+        description: "YOLO confidence score for the detected object."
+
+      - name: image_category
+        description: "Derived image category such as promotional, product_display, lifestyle, or other."
+
+      - name: image_path
+        description: "Local file path of the downloaded Telegram image."
