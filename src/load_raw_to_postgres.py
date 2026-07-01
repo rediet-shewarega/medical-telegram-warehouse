@@ -88,13 +88,14 @@ def load_to_postgres():
 
     with engine.begin() as conn:
         conn.execute(text("CREATE SCHEMA IF NOT EXISTS raw"))
+        conn.execute(text("DROP TABLE IF EXISTS raw.telegram_messages CASCADE"))
 
     df.to_sql(
         "telegram_messages",
         engine,
         schema="raw",
-        if_exists="replace",
-        index=False
+        if_exists="append",
+        index=False,
     )
 
     print(f"Loaded {len(df)} records into raw.telegram_messages")

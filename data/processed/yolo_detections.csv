@@ -1,26 +1,69 @@
 message_id,channel_name,image_path,detected_class,confidence_score,image_category
+26693,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26693.jpg,none,0.0,other
+26687,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26687.jpg,book,0.25222140550613403,product_display
 26650,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26650.jpg,none,0.0,other
 26644,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26644.jpg,bottle,0.7959312200546265,product_display
 26644,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26644.jpg,bottle,0.28317737579345703,product_display
+26678,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26678.jpg,orange,0.3177691400051117,other
+26678,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26678.jpg,teddy bear,0.271085649728775,other
+26724,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26724.jpg,orange,0.4804791212081909,other
+26730,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26730.jpg,none,0.0,other
+26718,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26718.jpg,bottle,0.3037303388118744,product_display
+26718,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26718.jpg,traffic light,0.3027341067790985,product_display
+26719,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26719.jpg,person,0.8004422783851624,lifestyle
+26731,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26731.jpg,none,0.0,other
+26725,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26725.jpg,book,0.27604010701179504,product_display
+26679,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26679.jpg,bottle,0.9058476090431213,product_display
 26645,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26645.jpg,bottle,0.7737783789634705,product_display
 26645,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26645.jpg,bottle,0.26601332426071167,product_display
 26651,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26651.jpg,cup,0.3540221154689789,product_display
+26686,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26686.jpg,sports ball,0.36803433299064636,other
+26686,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26686.jpg,sports ball,0.2993008494377136,other
+26692,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26692.jpg,none,0.0,other
+26684,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26684.jpg,book,0.25222140550613403,product_display
+26690,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26690.jpg,bottle,0.3789382576942444,product_display
+26690,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26690.jpg,cake,0.2855193316936493,product_display
 26647,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26647.jpg,book,0.27604010701179504,product_display
 26653,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26653.jpg,bottle,0.48229584097862244,product_display
 26653,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26653.jpg,bottle,0.47251278162002563,product_display
 26653,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26653.jpg,bottle,0.43178755044937134,product_display
 26653,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26653.jpg,bottle,0.27132636308670044,product_display
+26733,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26733.jpg,none,0.0,other
+26727,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26727.jpg,none,0.0,other
+26726,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26726.jpg,none,0.0,other
+26732,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26732.jpg,cell phone,0.3195800185203552,product_display
 26652,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26652.jpg,none,0.0,other
 26646,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26646.jpg,orange,0.4804791212081909,other
+26691,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26691.jpg,none,0.0,other
+26685,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26685.jpg,none,0.0,other
+26681,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26681.jpg,bottle,0.7406816482543945,product_display
+26695,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26695.jpg,person,0.6775984168052673,lifestyle
+26695,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26695.jpg,stop sign,0.2887912094593048,lifestyle
 26642,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26642.jpg,person,0.6775984168052673,lifestyle
 26642,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26642.jpg,stop sign,0.2887912094593048,lifestyle
 26656,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26656.jpg,cell phone,0.4421601891517639,product_display
 26656,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26656.jpg,donut,0.4113532304763794,product_display
+26736,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26736.jpg,none,0.0,other
+26722,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26722.jpg,bottle,0.9058476090431213,product_display
+26723,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26723.jpg,bottle,0.3448214530944824,product_display
+26737,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26737.jpg,none,0.0,other
 26657,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26657.jpg,none,0.0,other
 26643,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26643.jpg,none,0.0,other
+26694,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26694.jpg,cell phone,0.3195800185203552,product_display
+26680,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26680.jpg,person,0.8004422783851624,lifestyle
+26696,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26696.jpg,none,0.0,other
+26682,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26682.jpg,none,0.0,other
 26669,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26669.jpg,none,0.0,other
 26655,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26655.jpg,book,0.25222140550613403,product_display
 26641,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26641.jpg,none,0.0,other
+26709,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26709.jpg,person,0.4393068253993988,promotional
+26709,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26709.jpg,book,0.3089663088321686,promotional
+26721,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26721.jpg,bottle,0.7439780831336975,product_display
+26735,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26735.jpg,none,0.0,other
+26734,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26734.jpg,bottle,0.8619311451911926,product_display
+26720,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26720.jpg,orange,0.3177691400051117,other
+26720,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26720.jpg,teddy bear,0.271085649728775,other
+26708,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26708.jpg,bottle,0.3294201195240021,product_display
 26640,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26640.jpg,bottle,0.27248615026474,product_display
 26654,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26654.jpg,bottle,0.5668665766716003,product_display
 26654,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26654.jpg,bottle,0.3778567910194397,product_display
@@ -28,6 +71,11 @@ message_id,channel_name,image_path,detected_class,confidence_score,image_categor
 26654,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26654.jpg,bottle,0.2639976143836975,product_display
 26654,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26654.jpg,bottle,0.25665196776390076,product_display
 26668,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26668.jpg,bottle,0.8619311451911926,product_display
+26683,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26683.jpg,cup,0.7179240584373474,product_display
+26683,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26683.jpg,cup,0.3850876986980438,product_display
+26683,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26683.jpg,book,0.29399242997169495,product_display
+26697,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26697.jpg,bottle,0.3037303388118744,product_display
+26697,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26697.jpg,traffic light,0.3027341067790985,product_display
 26633,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26633.jpg,fork,0.8577808737754822,product_display
 26633,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26633.jpg,cup,0.49490171670913696,product_display
 26633,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26633.jpg,knife,0.44402560591697693,product_display
@@ -36,6 +84,9 @@ message_id,channel_name,image_path,detected_class,confidence_score,image_categor
 26592,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26592.jpg,bottle,0.3037303388118744,product_display
 26592,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26592.jpg,traffic light,0.3027341067790985,product_display
 26579,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26579.jpg,none,0.0,other
+26747,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26747.jpg,cell phone,0.4421601891517639,product_display
+26747,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26747.jpg,donut,0.4113532304763794,product_display
+26746,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26746.jpg,book,0.25222140550613403,product_display
 26578,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26578.jpg,bottle,0.6770148277282715,product_display
 26593,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26593.jpg,bottle,0.5938534736633301,product_display
 26587,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26587.jpg,none,0.0,other
@@ -52,6 +103,8 @@ message_id,channel_name,image_path,detected_class,confidence_score,image_categor
 26585,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26585.jpg,fork,0.8577808737754822,product_display
 26585,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26585.jpg,cup,0.49490171670913696,product_display
 26585,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26585.jpg,knife,0.44402560591697693,product_display
+26744,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26744.jpg,bottle,0.8619311451911926,product_display
+26745,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26745.jpg,none,0.0,other
 26584,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26584.jpg,cell phone,0.4421601891517639,product_display
 26584,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26584.jpg,donut,0.4113532304763794,product_display
 26590,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26590.jpg,none,0.0,other
@@ -70,6 +123,9 @@ message_id,channel_name,image_path,detected_class,confidence_score,image_categor
 26594,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26594.jpg,none,0.0,other
 26580,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26580.jpg,none,0.0,other
 26557,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26557.jpg,none,0.0,other
+26741,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26741.jpg,none,0.0,other
+26740,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26740.jpg,person,0.4393068253993988,promotional
+26740,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26740.jpg,book,0.3089663088321686,promotional
 26581,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26581.jpg,bottle,0.48229584097862244,product_display
 26581,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26581.jpg,bottle,0.47251278162002563,product_display
 26581,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26581.jpg,bottle,0.43178755044937134,product_display
@@ -96,6 +152,18 @@ message_id,channel_name,image_path,detected_class,confidence_score,image_categor
 26568,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26568.jpg,bottle,0.2692013382911682,product_display
 26568,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26568.jpg,bottle,0.2691821753978729,product_display
 26568,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26568.jpg,bottle,0.2633962631225586,product_display
+26742,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26742.jpg,bottle,0.6432714462280273,product_display
+26742,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26742.jpg,bottle,0.6279266476631165,product_display
+26742,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26742.jpg,bottle,0.40221187472343445,product_display
+26742,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26742.jpg,bottle,0.3563340902328491,product_display
+26742,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26742.jpg,bottle,0.34715989232063293,product_display
+26742,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26742.jpg,bottle,0.3449896275997162,product_display
+26742,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26742.jpg,bottle,0.3412434160709381,product_display
+26742,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26742.jpg,bottle,0.314757764339447,product_display
+26742,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26742.jpg,bottle,0.2692013382911682,product_display
+26742,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26742.jpg,bottle,0.2691821753978729,product_display
+26742,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26742.jpg,bottle,0.2633962631225586,product_display
+26743,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26743.jpg,none,0.0,other
 26569,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26569.jpg,none,0.0,other
 26596,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26596.jpg,bottle,0.9058476090431213,product_display
 26582,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26582.jpg,bottle,0.5668665766716003,product_display
@@ -169,6 +237,7 @@ message_id,channel_name,image_path,detected_class,confidence_score,image_categor
 26589,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26589.jpg,stop sign,0.2887912094593048,lifestyle
 26576,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26576.jpg,bottle,0.4999038875102997,product_display
 26562,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26562.jpg,bottle,0.8619311451911926,product_display
+26748,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26748.jpg,none,0.0,other
 26563,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26563.jpg,none,0.0,other
 26577,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26577.jpg,refrigerator,0.42145872116088867,product_display
 26577,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26577.jpg,bottle,0.25736886262893677,product_display
@@ -204,9 +273,27 @@ message_id,channel_name,image_path,detected_class,confidence_score,image_categor
 26665,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26665.jpg,person,0.6775984168052673,lifestyle
 26665,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26665.jpg,stop sign,0.2887912094593048,lifestyle
 26659,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26659.jpg,none,0.0,other
+26705,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26705.jpg,person,0.3116898536682129,lifestyle
+26711,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26711.jpg,clock,0.27083641290664673,other
+26739,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26739.jpg,bottle,0.3294201195240021,product_display
+26738,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26738.jpg,person,0.9188652038574219,lifestyle
+26710,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26710.jpg,bottle,0.6693368554115295,product_display
+26704,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26704.jpg,bottle,0.5097291469573975,product_display
+26704,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26704.jpg,bottle,0.5074446797370911,product_display
+26704,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26704.jpg,dining table,0.46089085936546326,product_display
+26704,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26704.jpg,bottle,0.423902302980423,product_display
+26704,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26704.jpg,bottle,0.42066624760627747,product_display
+26704,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26704.jpg,cup,0.368380606174469,product_display
+26704,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26704.jpg,bottle,0.33850017189979553,product_display
+26704,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26704.jpg,bottle,0.32597219944000244,product_display
+26704,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26704.jpg,bottle,0.3151762783527374,product_display
+26704,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26704.jpg,bottle,0.3124110698699951,product_display
+26704,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26704.jpg,bottle,0.2992855906486511,product_display
+26704,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26704.jpg,bottle,0.29021701216697693,product_display
 26658,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26658.jpg,bottle,0.4262692928314209,product_display
 26664,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26664.jpg,none,0.0,other
 26670,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26670.jpg,none,0.0,other
+26699,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26699.jpg,none,0.0,other
 26666,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26666.jpg,none,0.0,other
 26672,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26672.jpg,bottle,0.5097291469573975,product_display
 26672,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26672.jpg,bottle,0.5074446797370911,product_display
@@ -220,15 +307,50 @@ message_id,channel_name,image_path,detected_class,confidence_score,image_categor
 26672,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26672.jpg,bottle,0.3124110698699951,product_display
 26672,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26672.jpg,bottle,0.2992855906486511,product_display
 26672,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26672.jpg,bottle,0.29021701216697693,product_display
+26712,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26712.jpg,bottle,0.5097291469573975,product_display
+26712,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26712.jpg,bottle,0.5074446797370911,product_display
+26712,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26712.jpg,dining table,0.46089085936546326,product_display
+26712,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26712.jpg,bottle,0.423902302980423,product_display
+26712,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26712.jpg,bottle,0.42066624760627747,product_display
+26712,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26712.jpg,cup,0.368380606174469,product_display
+26712,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26712.jpg,bottle,0.33850017189979553,product_display
+26712,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26712.jpg,bottle,0.32597219944000244,product_display
+26712,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26712.jpg,bottle,0.3151762783527374,product_display
+26712,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26712.jpg,bottle,0.3124110698699951,product_display
+26712,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26712.jpg,bottle,0.2992855906486511,product_display
+26712,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26712.jpg,bottle,0.29021701216697693,product_display
+26706,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26706.jpg,none,0.0,other
+26707,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26707.jpg,person,0.9188652038574219,lifestyle
+26713,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26713.jpg,person,0.3116898536682129,lifestyle
 26673,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26673.jpg,person,0.3116898536682129,lifestyle
 26667,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26667.jpg,none,0.0,other
+26698,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26698.jpg,bottle,0.5938534736633301,product_display
+26688,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26688.jpg,cell phone,0.4421601891517639,product_display
+26688,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26688.jpg,donut,0.4113532304763794,product_display
 26663,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26663.jpg,person,0.6775984168052673,lifestyle
 26663,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26663.jpg,stop sign,0.2887912094593048,lifestyle
+26677,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26677.jpg,none,0.0,other
+26717,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26717.jpg,dining table,0.4378452003002167,other
+26703,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26703.jpg,bottle,0.7406816482543945,product_display
+26702,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26702.jpg,person,0.8004422783851624,lifestyle
+26716,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26716.jpg,dining table,0.3400873839855194,other
+26676,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26676.jpg,bottle,0.5938534736633301,product_display
 26662,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26662.jpg,cell phone,0.3195800185203552,product_display
+26689,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26689.jpg,bottle,0.6767738461494446,product_display
 26648,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26648.jpg,none,0.0,other
 26674,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26674.jpg,none,0.0,other
 26660,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26660.jpg,none,0.0,other
+26728,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26728.jpg,none,0.0,other
+26700,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26700.jpg,orange,0.3177691400051117,other
+26700,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26700.jpg,teddy bear,0.271085649728775,other
+26714,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26714.jpg,person,0.7034514546394348,lifestyle
+26714,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26714.jpg,person,0.6184196472167969,lifestyle
+26715,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26715.jpg,none,0.0,other
+26701,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26701.jpg,bottle,0.9058476090431213,product_display
+26729,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26729.jpg,cup,0.3540221154689789,product_display
 26661,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26661.jpg,bottle,0.27248615026474,product_display
+26675,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26675.jpg,bottle,0.3037303388118744,product_display
+26675,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26675.jpg,traffic light,0.3027341067790985,product_display
 26649,lobelia_cosmetics,/Users/mac/medical-telegram-warehouse/data/raw/images/lobelia_cosmetics/26649.jpg,none,0.0,other
 196246,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196246.jpg,laptop,0.9521930813789368,lifestyle
 196246,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196246.jpg,laptop,0.9129306077957153,lifestyle
@@ -239,17 +361,30 @@ message_id,channel_name,image_path,detected_class,confidence_score,image_categor
 196246,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196246.jpg,keyboard,0.3070378005504608,lifestyle
 196247,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196247.jpg,laptop,0.7089229226112366,other
 196327,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196327.jpg,none,0.0,other
+196480,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196480.jpg,cup,0.4229578375816345,product_display
 196286,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196286.jpg,book,0.333666056394577,product_display
 196286,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196286.jpg,toothbrush,0.255535751581192,product_display
+196481,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196481.jpg,none,0.0,other
 196268,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196268.jpg,bowl,0.3644428551197052,other
 196269,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196269.jpg,none,0.0,other
+196445,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196445.jpg,none,0.0,other
 196337,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196337.jpg,none,0.0,other
+196479,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196479.jpg,none,0.0,other
 196295,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196295.jpg,person,0.39225828647613525,lifestyle
 196295,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196295.jpg,sports ball,0.29745641350746155,lifestyle
+196487,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196487.jpg,none,0.0,other
+196437,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196437.jpg,tv,0.8935059905052185,other
+196437,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196437.jpg,laptop,0.7820509076118469,other
+196437,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196437.jpg,laptop,0.761518120765686,other
+196437,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196437.jpg,laptop,0.4919903576374054,other
+196437,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196437.jpg,keyboard,0.45387962460517883,other
+196437,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196437.jpg,laptop,0.27683544158935547,other
+196437,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196437.jpg,tv,0.25739577412605286,other
 196344,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196344.jpg,tv,0.6953573226928711,other
 196344,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196344.jpg,microwave,0.4358026683330536,other
 196344,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196344.jpg,clock,0.27874755859375,other
 196384,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196384.jpg,laptop,0.908444881439209,other
+196409,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196409.jpg,none,0.0,other
 196343,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196343.jpg,none,0.0,other
 196356,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196356.jpg,tv,0.6953573226928711,other
 196356,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196356.jpg,microwave,0.4358026683330536,other
@@ -261,16 +396,30 @@ message_id,channel_name,image_path,detected_class,confidence_score,image_categor
 196369,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196369.jpg,refrigerator,0.33576491475105286,other
 196355,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196355.jpg,none,0.0,other
 196370,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196370.jpg,laptop,0.7089229226112366,other
+196417,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196417.jpg,none,0.0,other
 196367,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196367.jpg,none,0.0,other
+196410,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196410.jpg,none,0.0,other
+196438,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196438.jpg,laptop,0.8500731587409973,other
+196439,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196439.jpg,person,0.7967061996459961,lifestyle
+196411,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196411.jpg,refrigerator,0.33576491475105286,other
+196413,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196413.jpg,laptop,0.908444881439209,other
+196412,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196412.jpg,laptop,0.8312308192253113,product_display
+196412,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196412.jpg,bottle,0.6147421598434448,product_display
 196313,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196313.jpg,laptop,0.7089229226112366,other
 196312,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196312.jpg,refrigerator,0.33576491475105286,other
 196338,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196338.jpg,none,0.0,other
 196310,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196310.jpg,none,0.0,other
+196489,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196489.jpg,refrigerator,0.33576491475105286,other
 196270,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196270.jpg,none,0.0,other
 196271,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196271.jpg,refrigerator,0.33576491475105286,other
+196488,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196488.jpg,none,0.0,other
+196463,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196463.jpg,none,0.0,other
 196311,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196311.jpg,none,0.0,other
+196477,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196477.jpg,cup,0.4229578375816345,product_display
 196339,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196339.jpg,refrigerator,0.33576491475105286,other
 196288,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196288.jpg,bowl,0.3644428551197052,other
+196465,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196465.jpg,cup,0.4350299537181854,product_display
+196465,tikvah_pharma,/Users/mac/medical-telegram-warehouse/data/raw/images/tikvah_pharma/196465.jpg,bowl,0.31987878680229187,product_display
 2707,hakimapps_guideline,/Users/mac/medical-telegram-warehouse/data/raw/images/hakimapps_guideline/2707.jpg,none,0.0,other
 2710,hakimapps_guideline,/Users/mac/medical-telegram-warehouse/data/raw/images/hakimapps_guideline/2710.jpg,bottle,0.700162410736084,promotional
 2710,hakimapps_guideline,/Users/mac/medical-telegram-warehouse/data/raw/images/hakimapps_guideline/2710.jpg,person,0.5791810750961304,promotional
@@ -337,6 +486,7 @@ message_id,channel_name,image_path,detected_class,confidence_score,image_categor
 2804,hakimapps_guideline,/Users/mac/medical-telegram-warehouse/data/raw/images/hakimapps_guideline/2804.jpg,clock,0.6499911546707153,other
 2804,hakimapps_guideline,/Users/mac/medical-telegram-warehouse/data/raw/images/hakimapps_guideline/2804.jpg,clock,0.305996835231781,other
 2804,hakimapps_guideline,/Users/mac/medical-telegram-warehouse/data/raw/images/hakimapps_guideline/2804.jpg,clock,0.2877054810523987,other
+2810,hakimapps_guideline,/Users/mac/medical-telegram-warehouse/data/raw/images/hakimapps_guideline/2810.jpg,none,0.0,other
 2806,hakimapps_guideline,/Users/mac/medical-telegram-warehouse/data/raw/images/hakimapps_guideline/2806.jpg,remote,0.25060325860977173,other
 2783,hakimapps_guideline,/Users/mac/medical-telegram-warehouse/data/raw/images/hakimapps_guideline/2783.jpg,cell phone,0.4129927158355713,promotional
 2783,hakimapps_guideline,/Users/mac/medical-telegram-warehouse/data/raw/images/hakimapps_guideline/2783.jpg,person,0.3089005649089813,promotional
